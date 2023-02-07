@@ -79,6 +79,10 @@
   </lexeme>
   <!--I-->
   <!--J-->
+  <lexeme>
+    <grapheme>神降</grapheme>
+    <phoneme>shen 2 jiang 4</phoneme>
+  </lexeme>
   <!--K-->
   <lexeme>
     <grapheme>咳咳</grapheme>
@@ -110,12 +114,12 @@
   <!--O-->
   <!--P-->
   <!--Q-->
+  <lexeme>
+    <grapheme>一圈</grapheme>
+    <phoneme>yi 1 quan 1</phoneme>
+  </lexeme> 
   <!--R-->
   <!--S-->
-  <lexeme>
-    <grapheme>神降</grapheme>
-    <phoneme>shen 2 jiang 4</phoneme>
-  </lexeme>
   <!--T-->
   <lexeme>
     <grapheme>挑战</grapheme>
